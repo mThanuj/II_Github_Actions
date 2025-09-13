@@ -1,0 +1,26 @@
+{
+    "name": "ii_github_actions",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mThanuj/II_Github_Actions.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mThanuj/II_Github_Actions/issues"
+    },
+    "homepage": "https://github.com/mThanuj/II_Github_Actions#readme",
+    "devDependencies": {
+        "@eslint/js": "^9.35.0",
+        "eslint": "^9.35.0",
+        "globals": "^16.4.0"
+    }
+}
